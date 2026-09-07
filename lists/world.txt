@@ -1,0 +1,298 @@
+# brew
+brew.sh
+
+# 2ip.io
+2ip.io
+
+# tampermonkey
+tampermonkey.net
+
+# openrouter
+buildwithfern.com
+
+# google labs / pomelli
+labs.google.com
+
+# google ai
+deepmind.com
+deepmind.google
+geller-pa.googleapis.com
+#generativelanguage.googleapis.com
+#proactivebackend-pa.googleapis.com
+#ai.google.dev
+generativeai.google
+makersuite.google.com
+#aistudio.google.com
+bard.google.com
+gemini.google
+#gemini.google.com
+notebooklm.google.com
+clients6.google.com
+notebooklm.google
+jules.google
+jules.google.com
+labs.google
+aisandbox-pa.googleapis.com
+stitch.withgoogle.com
+robinfrontend-pa.googleapis.com
+aida.googleapis.com
+antigravity-pa.googleapis.com
+antigravity.googleapis.com
+antigravity.google
+antigravity-unleash.goog
+firebaseinstallations.googleapis.com
+speechs3proto2-pa.googleapis.com
+
+# kimi
+volces.com
+volccdn.com
+
+# github
+#githubusercontent.com
+
+# figma
+datadoghq.com
+
+# Android Studio Gemini Code Assist
+aida.googleapis.com
+cloudcode-pa.googleapis.com
+
+# anydesk, etc
+site.com
+
+# dbdesigner
+dbdesigner.net
+
+# 2ip
+2ip.io
+
+# axios
+#axios-http.com
+
+# animejoy
+ajsub.ru
+
+# csst.online
+csst.online
+secvideo1.online
+filevideo1.com
+
+# savefrom.net
+sf-converter.com
+
+# remixicon
+remixicon.com
+
+# spotify
+byspotify.com
+lifeatspotify.com
+pscdn.co
+scdn.co
+spoti.fi
+spotify-everywhere.com
+spotify.com
+spotify.design
+spotify.link
+spotifycdn.com
+spotifycdn.net
+spotifycharts.com
+spotifycodes.com
+spotifyforbrands.com
+spotifyforvendors.com
+spotifyjobs.com
+tospotify.com
+akamaized.net
+conductrics.com
+edgesuite.net
+fastly.net
+fastlylb.net
+
+# fontawesome
+fontawesome.com
+
+# google ads
+googleadservices.com
+
+# santa-secret
+santa-secret.ru
+
+# genius
+genius.com
+
+# jetbrains
+intellij.com
+intellij.net
+intellij.org
+jetbrains.com
+jetbrains.net
+jetbrains.space
+jetbrains.team
+datalore.io
+kotlinlang.org
+jb.gg
+youtrack.cloud
+grazie.ai
+grazie.aws.intellij.net
+jetbrains.ai
+
+# thephpleague
+thephpleague.com
+
+# regex101
+regex101.com
+
+# readmanga
+readmanga.io
+
+# cloudflare
+#cloudflare-ech.com
+#encryptedsni.com
+
+# loggly
+loggly.com
+
+# redis
+redis.io
+relay.so
+
+# dedoc.co
+dedoc.co
+
+# findanime
+findanime.ru
+findanime.net
+findani.me
+
+# animego
+animego.org
+
+# anilab
+anilabx.xyz
+
+# habr
+habr.com
+habrastorage.org
+
+# nnmclub
+nnmstatic.win
+
+# ntc.party
+#ntc.party
+
+# 4pda
+4pda.to
+
+# notion
+notion-static.com
+notion.com
+notion.new
+notion.site
+notion.so
+
+# react-daterange-picker
+wojtekmaj.pl
+
+mui.com
+
+# rutracker
+rutracker.cc
+
+# docker
+compose-spec.io
+docker.com
+docker.io
+
+# so
+stackoverflow.com
+sstatic.net
+stacksnippets.net
+
+# css-tricks
+css-tricks.com
+
+# codepen
+codepen.io
+cdpn.io
+
+# myfonts
+myfonts.com
+monotype.com
+myfonts.net
+
+# paddle
+paddle.com
+buy.paddle.com
+cdn.paddle.com
+
+# betterdisplay
+betterdisplay.pro
+
+# digitalocean
+digitalocean.com
+
+# swagger
+swagger.io
+
+# avid
+avid.com
+
+# intel
+intel.com
+intel.ru
+
+# jellyfin
+jellyfin.org
+
+# lidarr
+lidarr.audio
+
+# readarr
+readarr.com
+
+# whisparr
+whisparr.com
+
+# sonarr
+sonarr.tv
+
+# radarr
+radarr.video
+
+# prowlarr
+prowlarr.com
+
+# servarr
+servarr.com
+
+# omv-extras
+omv-extras.org
+
+# shikimori
+shikimori.one
+shikimori.me
+
+# adguard
+adguard.com
+adguard-vpn.com
+
+# deviantart
+wixmp.com
+
+# openai
+#chatgpt.com
+#openai.com
+#auth0.com
+
+# soapui
+soapui.org
+smartbear.co
+rlcdn.com
+
+# intervention
+intervention.io
+
+# weather
+weather.com
+
+# guzzle
+guzzlephp.org
