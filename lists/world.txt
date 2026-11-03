@@ -44,8 +44,8 @@ firebaseinstallations.googleapis.com
 speechs3proto2-pa.googleapis.com
 
 # kimi
-volces.com
-volccdn.com
+#volces.com
+#volccdn.com
 
 # github
 #githubusercontent.com
